@@ -1,0 +1,4 @@
+server:
+  port: 8080
+couponService:
+  url: http://coupon-app:8081/couponapi/coupons/
